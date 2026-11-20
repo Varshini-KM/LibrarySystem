@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="949" height="757" alt="image" src="https://github.com/user-attachments/assets/03870803-d9e7-47f9-be32-eab893903083" />
 
 
 
@@ -67,6 +68,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1026" height="852" alt="image" src="https://github.com/user-attachments/assets/37d13d2d-4e95-412e-a9c0-25e366be9f93" />
 
 
 
@@ -98,6 +100,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="1238" height="950" alt="lib act" src="https://github.com/user-attachments/assets/75845429-69bf-4948-8fe3-9be285de12ff" />
 
 
 
