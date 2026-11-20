@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240179
+# Name: Varshini K M
+# Date: 20-11-26
 
 
 # AIM:
@@ -57,6 +57,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1655" height="950" alt="library class diag" src="https://github.com/user-attachments/assets/0e0898dc-7c01-4167-af55-e75e492ea059" />
+
 
 
 
@@ -76,6 +78,7 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="1099" height="673" alt="library package" src="https://github.com/user-attachments/assets/eb707d30-f386-48e1-bf7d-4f4df98eaf93" />
 
 
 
@@ -105,6 +108,7 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+<img width="1231" height="757" alt="library sequence" src="https://github.com/user-attachments/assets/ae257956-c0ce-44b3-b0fb-1c4f61ad58e2" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
@@ -116,6 +120,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
 
 
 
